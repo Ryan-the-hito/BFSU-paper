@@ -58,7 +58,6 @@ This repository stores all the required files as template in Master degree of BF
 
 ## LaTeX 模板内容一览
 
-![tPUIKPR](https://i.imgur.com/tPUIKPR.png)
 ![kfWksQg](https://i.imgur.com/kfWksQg.png)
 ![F8u53tk](https://i.imgur.com/F8u53tk.png)
 ![9vWnt9O](https://i.imgur.com/9vWnt9O.png)
@@ -77,3 +76,4 @@ This repository stores all the required files as template in Master degree of BF
 ![JboLvG9](https://i.imgur.com/JboLvG9.png)
 ![utIfgQH](https://i.imgur.com/utIfgQH.png)
 ![hgXBYH0](https://i.imgur.com/hgXBYH0.png)
+![tPUIKPR](https://i.imgur.com/tPUIKPR.png)
