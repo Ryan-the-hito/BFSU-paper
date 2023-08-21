@@ -22,7 +22,7 @@ This repository stores all the required files as template in Master degree of BF
 
 仅包含 Word 版毕业论文封面和原创性声明页。
 
-## 毕业论文 LaTeX 模板
+## 硕士毕业论文 LaTeX 模板
 
 这是使用 LATEX 编写的北京外国语大学硕士毕业论文模板，由江苏大学硕士学位论文模板(非官方)修改而来。修改者为 Ryan-the-hito，原作者为 Tex 白兔。
 
@@ -56,14 +56,24 @@ This repository stores all the required files as template in Master degree of BF
   	  
   	- 北京外国语大学硕士学位授予决议书（4-4）
 
-## LaTeX 模板内容样例
+## LaTeX 模板内容一览
 
-![74t15Ub](https://i.imgur.com/74t15Ub.jpg)
-
-![4kXuVfO](https://i.imgur.com/4kXuVfO.jpg)
-
-![esoknF8](https://i.imgur.com/esoknF8.jpg)
-
-![onjXPqZ](https://i.imgur.com/onjXPqZ.jpg)
-
-![wFrhjd3](https://i.imgur.com/wFrhjd3.jpg)
+![tPUIKPR](https://i.imgur.com/tPUIKPR.png)
+![kfWksQg](https://i.imgur.com/kfWksQg.png)
+![F8u53tk](https://i.imgur.com/F8u53tk.png)
+![9vWnt9O](https://i.imgur.com/9vWnt9O.png)
+![OaRAGre](https://i.imgur.com/OaRAGre.png)
+![09ogwLx](https://i.imgur.com/09ogwLx.png)
+![UPjqLm2](https://i.imgur.com/UPjqLm2.png)
+![j3JpibH](https://i.imgur.com/j3JpibH.png)
+![tGcfoGn](https://i.imgur.com/tGcfoGn.png)
+![LJBHXMS](https://i.imgur.com/LJBHXMS.png)
+![GUXWLE5](https://i.imgur.com/GUXWLE5.png)
+![GpjQBNs](https://i.imgur.com/GpjQBNs.png)
+![mKgGlcd](https://i.imgur.com/mKgGlcd.png)
+![tqkDxLN](https://i.imgur.com/tqkDxLN.png)
+![J4fpr7F](https://i.imgur.com/J4fpr7F.png)
+![yQd6h6Q](https://i.imgur.com/yQd6h6Q.png)
+![JboLvG9](https://i.imgur.com/JboLvG9.png)
+![utIfgQH](https://i.imgur.com/utIfgQH.png)
+![hgXBYH0](https://i.imgur.com/hgXBYH0.png)
