@@ -24,7 +24,7 @@ This repository stores all the required files as template in Master degree of BF
 
 ## 硕士毕业论文 LaTeX 模板
 
-这是使用 LATEX 编写的北京外国语大学硕士毕业论文模板，由江苏大学硕士学位论文模板(非官方)修改而来。修改者为 Ryan-the-hito，原作者为 Tex 白兔。
+这是使用 LaTeX 编写的北京外国语大学硕士毕业论文模板，由江苏大学硕士学位论文模板(非官方)修改而来。修改者为 Ryan-the-hito，原作者为 Tex 白兔。
 
 模板中用到的字体：需要提前安装
 
@@ -40,13 +40,13 @@ This repository stores all the required files as template in Master degree of BF
 
 内容：
 
-- （表1）北京外国语大学硕士研究生基本情况表
+- （表1）北京外国语大学硕士研究生基本情况表.docx
 
-- （表2）北京外国语大学硕士研究生学位论文答辩申请表
+- （表2）北京外国语大学硕士研究生学位论文答辩申请表.docx
 
-- （表3）北京外国语大学硕士/硕士专业学位论文评阅书【此文件略】
+- （表3）北京外国语大学硕士/硕士专业学位论文评阅书.docx【此文件为空】
 
-- （表4）北京外国语大学硕士学位论文答辩记录及学位授予决议书（附表决票）
+- （表4）北京外国语大学硕士学位论文答辩记录及学位授予决议书.docx【另附表决票，略】
   
 	- 答辩委员会组成名单（4-1）
    
